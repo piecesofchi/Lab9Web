@@ -32,7 +32,7 @@
 
 ---
 
-# ⚙️ Konfigurasi Database  
+# Konfigurasi Database  
 Menggunakan database dari Praktikum 8:
 
 ### **database: latihan1**
@@ -50,7 +50,7 @@ Menggunakan database dari Praktikum 8:
 
 ---
 
-# 📂 Penjelasan Setiap File
+# Penjelasan Setiap File
 
 ## 1. `config/database.php`
 File ini digunakan untuk koneksi ke database MySQL.
@@ -80,7 +80,7 @@ Contoh tambahan login/logout sederhana (opsional).
 
 ---
 
-# 🧩 Routing System
+# Routing System
 
 Routing diproses melalui:
 
